@@ -1,0 +1,39 @@
+{
+  "map_id": 37,
+  "name": "空之神殿",
+  "version": "a15ffbe8963d513bf24c4aaa5d8640b7",
+  "total_size": [
+    3072,
+    3072
+  ],
+  "original_map_size": [
+    2627,
+    2194
+  ],
+  "origin": [
+    1526,
+    1409
+  ],
+  "padding": [
+    222,
+    439
+  ],
+  "tile_size": 256,
+  "zoom_levels": [
+    {
+      "label": "N2",
+      "cols": 3,
+      "rows": 3
+    },
+    {
+      "label": "N1",
+      "cols": 6,
+      "rows": 6
+    },
+    {
+      "label": "P0",
+      "cols": 12,
+      "rows": 12
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "map_id": 34,
+  "name": "旧日之海",
+  "version": "9af6a4747bab91f96c598f8e8a9b7ce5",
+  "total_size": [
+    4096,
+    4096
+  ],
+  "original_map_size": [
+    4096,
+    3072
+  ],
+  "origin": [
+    2144,
+    2140
+  ],
+  "padding": [
+    0,
+    512
+  ],
+  "tile_size": 256,
+  "zoom_levels": [
+    {
+      "label": "N4",
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "label": "N3",
+      "cols": 2,
+      "rows": 2
+    },
+    {
+      "label": "N2",
+      "cols": 4,
+      "rows": 4
+    },
+    {
+      "label": "N1",
+      "cols": 8,
+      "rows": 8
+    },
+    {
+      "label": "P0",
+      "cols": 16,
+      "rows": 16
+    }
+  ]
+}

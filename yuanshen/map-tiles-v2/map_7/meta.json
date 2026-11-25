@@ -1,0 +1,49 @@
+{
+  "map_id": 7,
+  "name": "渊下宫",
+  "version": "2d0a83cf40ca8f5a2ef0b1a5199fc407",
+  "total_size": [
+    4096,
+    4096
+  ],
+  "original_map_size": [
+    4096,
+    4096
+  ],
+  "origin": [
+    1849,
+    1779
+  ],
+  "padding": [
+    0,
+    0
+  ],
+  "tile_size": 256,
+  "zoom_levels": [
+    {
+      "label": "N4",
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "label": "N3",
+      "cols": 2,
+      "rows": 2
+    },
+    {
+      "label": "N2",
+      "cols": 4,
+      "rows": 4
+    },
+    {
+      "label": "N1",
+      "cols": 8,
+      "rows": 8
+    },
+    {
+      "label": "P0",
+      "cols": 16,
+      "rows": 16
+    }
+  ]
+}

@@ -1,0 +1,3100 @@
+[
+  {
+    "name": "波乱月白经津",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 608,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.3307,
+      "display": "33.1%"
+    },
+    "effectName": "白刃流转"
+  },
+  {
+    "name": "裁叶萃光",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 542,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.882,
+      "display": "88.2%"
+    },
+    "effectName": "白月枝芒"
+  },
+  {
+    "name": "苍古自由之誓",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 608,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 198.4608,
+      "display": "198"
+    },
+    "effectName": "抗争的践行之歌"
+  },
+  {
+    "name": "苍耀",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 674,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2205,
+      "display": "22.1%"
+    },
+    "effectName": "白山的馈赐"
+  },
+  {
+    "name": "风鹰剑",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 674,
+    "substat": {
+      "key": "physical%",
+      "name": "物理伤害加成",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "西风之鹰的抗争"
+  },
+  {
+    "name": "静水流涌之辉",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 542,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.882,
+      "display": "88.2%"
+    },
+    "effectName": "湖光的朝与暮"
+  },
+  {
+    "name": "磐岩结绿",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 542,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.441,
+      "display": "44.1%"
+    },
+    "effectName": "护国的无垢之心"
+  },
+  {
+    "name": "赦罪",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 674,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.441,
+      "display": "44.1%"
+    },
+    "effectName": "死之契"
+  },
+  {
+    "name": "圣显之钥",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 542,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.6615,
+      "display": "66.1%"
+    },
+    "effectName": "沉入沙海的史诗"
+  },
+  {
+    "name": "天空之刃",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 608,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "穿刺高天的利齿"
+  },
+  {
+    "name": "雾切之回光",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 674,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.441,
+      "display": "44.1%"
+    },
+    "effectName": "雾切御腰物"
+  },
+  {
+    "name": "岩峰巡歌",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 542,
+    "substat": {
+      "key": "def%",
+      "name": "防御力%",
+      "value": 0.8269,
+      "display": "82.7%"
+    },
+    "effectName": "不凋的盛年"
+  },
+  {
+    "name": "有乐御簾切",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 542,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.882,
+      "display": "88.2%"
+    },
+    "effectName": "锦之花与龛中剑"
+  },
+  {
+    "name": "斫峰之刃",
+    "star": 5,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 608,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4961,
+      "display": "49.6%"
+    },
+    "effectName": "金璋皇极"
+  },
+  {
+    "name": "碧落之珑",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 608,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.4961,
+      "display": "49.6%"
+    },
+    "effectName": "定土玉圭"
+  },
+  {
+    "name": "不灭月华",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 608,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.4961,
+      "display": "49.6%"
+    },
+    "effectName": "白夜皓月"
+  },
+  {
+    "name": "尘世之锁",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 608,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4961,
+      "display": "49.6%"
+    },
+    "effectName": "金璋皇极"
+  },
+  {
+    "name": "冲浪时光",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 542,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.882,
+      "display": "88.2%"
+    },
+    "effectName": "水色回忆"
+  },
+  {
+    "name": "纺夜天镜",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 542,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 264.6144,
+      "display": "265"
+    },
+    "effectName": "千年的祷咏歌"
+  },
+  {
+    "name": "鹤鸣余音",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 741,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.1653,
+      "display": "16.5%"
+    },
+    "effectName": "云笈降真要诀"
+  },
+  {
+    "name": "祭星者之望",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 542,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 264.6144,
+      "display": "265"
+    },
+    "effectName": "奉予风阳的禋祀"
+  },
+  {
+    "name": "金流监督",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 674,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2205,
+      "display": "22.1%"
+    },
+    "effectName": "黄金的血潮"
+  },
+  {
+    "name": "千夜浮梦",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 542,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 264.6144,
+      "display": "265"
+    },
+    "effectName": "千夜的曙歌"
+  },
+  {
+    "name": "寝正月初晴",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 542,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 264.6144,
+      "display": "265"
+    },
+    "effectName": "一汤二鹰三鸣神"
+  },
+  {
+    "name": "神乐之真意",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 608,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.6615,
+      "display": "66.1%"
+    },
+    "effectName": "神樱神游神乐舞"
+  },
+  {
+    "name": "四风原典",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 608,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.3307,
+      "display": "33.1%"
+    },
+    "effectName": "无边际的眷顾"
+  },
+  {
+    "name": "天空之卷",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 674,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.3307,
+      "display": "33.1%"
+    },
+    "effectName": "浮游四方的灵云"
+  },
+  {
+    "name": "图莱杜拉的回忆",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 674,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.441,
+      "display": "44.1%"
+    },
+    "effectName": "堙没的蓝宝石泪滴"
+  },
+  {
+    "name": "万世流涌大典",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 542,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.882,
+      "display": "88.2%"
+    },
+    "effectName": "万世的浪涛"
+  },
+  {
+    "name": "溢彩心念",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 674,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.441,
+      "display": "44.1%"
+    },
+    "effectName": "落虹之愿"
+  },
+  {
+    "name": "真语秘匣",
+    "star": 5,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 542,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.882,
+      "display": "88.2%"
+    },
+    "effectName": "伪言的真意"
+  },
+  {
+    "name": "阿莫斯之弓",
+    "star": 5,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 608,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4961,
+      "display": "49.6%"
+    },
+    "effectName": "矢志不忘"
+  },
+  {
+    "name": "白雨心弦",
+    "star": 5,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 542,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.6615,
+      "display": "66.1%"
+    },
+    "effectName": "德吕阿的夜曲"
+  },
+  {
+    "name": "冬极白星",
+    "star": 5,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 608,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.3307,
+      "display": "33.1%"
+    },
+    "effectName": "极昼的先兆者"
+  },
+  {
+    "name": "飞雷之弦振",
+    "star": 5,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 608,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.6615,
+      "display": "66.1%"
+    },
+    "effectName": "飞雷御执"
+  },
+  {
+    "name": "猎人之径",
+    "star": 5,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 542,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.441,
+      "display": "44.1%"
+    },
+    "effectName": "兽径的终点"
+  },
+  {
+    "name": "若水",
+    "star": 5,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 542,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.882,
+      "display": "88.2%"
+    },
+    "effectName": "洗濯诸类之形"
+  },
+  {
+    "name": "天空之翼",
+    "star": 5,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 674,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2205,
+      "display": "22.1%"
+    },
+    "effectName": "回响长天的诗歌"
+  },
+  {
+    "name": "星鹫赤羽",
+    "star": 5,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 608,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.6615,
+      "display": "66.1%"
+    },
+    "effectName": "眸中的月珥"
+  },
+  {
+    "name": "终末嗟叹之诗",
+    "star": 5,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 608,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "别离的思念之歌"
+  },
+  {
+    "name": "最初的大魔术",
+    "star": 5,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 608,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.6615,
+      "display": "66.1%"
+    },
+    "effectName": "伟大者帕西法尔"
+  },
+  {
+    "name": "裁断",
+    "star": 5,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 674,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2205,
+      "display": "22.1%"
+    },
+    "effectName": "诸多朝与暮的誓约"
+  },
+  {
+    "name": "赤角石溃杵",
+    "star": 5,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 542,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.882,
+      "display": "88.2%"
+    },
+    "effectName": "御伽大王御伽话"
+  },
+  {
+    "name": "焚曜千阳",
+    "star": 5,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 741,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.1102,
+      "display": "11.0%"
+    },
+    "effectName": "落日重燃的黎明"
+  },
+  {
+    "name": "狼的末路",
+    "star": 5,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 608,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4961,
+      "display": "49.6%"
+    },
+    "effectName": "如狼般狩猎者"
+  },
+  {
+    "name": "山王长牙",
+    "star": 5,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 741,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.1102,
+      "display": "11.0%"
+    },
+    "effectName": "绿松石之狩"
+  },
+  {
+    "name": "松籁响起之时",
+    "star": 5,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 741,
+    "substat": {
+      "key": "physical%",
+      "name": "物理伤害加成",
+      "value": 0.2067,
+      "display": "20.7%"
+    },
+    "effectName": "揭旗的叛逆之歌"
+  },
+  {
+    "name": "天空之傲",
+    "star": 5,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 674,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3675,
+      "display": "36.8%"
+    },
+    "effectName": "斩裂晴空的龙脊"
+  },
+  {
+    "name": "苇海信标",
+    "star": 5,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 608,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.3307,
+      "display": "33.1%"
+    },
+    "effectName": "沙海守望"
+  },
+  {
+    "name": "无工之剑",
+    "star": 5,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 608,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4961,
+      "display": "49.6%"
+    },
+    "effectName": "金璋皇极"
+  },
+  {
+    "name": "赤沙之杖",
+    "star": 5,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 542,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.441,
+      "display": "44.1%"
+    },
+    "effectName": "蜃气尽头的热梦"
+  },
+  {
+    "name": "赤月之形",
+    "star": 5,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 674,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2205,
+      "display": "22.1%"
+    },
+    "effectName": "烬日之影"
+  },
+  {
+    "name": "贯虹之槊",
+    "star": 5,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 608,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4961,
+      "display": "49.6%"
+    },
+    "effectName": "金璋皇极"
+  },
+  {
+    "name": "和璞鸢",
+    "star": 5,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 674,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2205,
+      "display": "22.1%"
+    },
+    "effectName": "昭理的鸢之枪"
+  },
+  {
+    "name": "护摩之杖",
+    "star": 5,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 608,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.6615,
+      "display": "66.1%"
+    },
+    "effectName": "无羁的朱赤之蝶"
+  },
+  {
+    "name": "柔灯挽歌",
+    "star": 5,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 608,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.3307,
+      "display": "33.1%"
+    },
+    "effectName": "白晓的序曲"
+  },
+  {
+    "name": "薙草之稻光",
+    "star": 5,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 608,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "非时之梦·常世灶食"
+  },
+  {
+    "name": "天空之脊",
+    "star": 5,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 674,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3675,
+      "display": "36.8%"
+    },
+    "effectName": "斫断黑翼的利齿"
+  },
+  {
+    "name": "息灾",
+    "star": 5,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 741,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.1653,
+      "display": "16.5%"
+    },
+    "effectName": "灭却之戒法"
+  },
+  {
+    "name": "香韵奏者",
+    "star": 5,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 608,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.6615,
+      "display": "66.1%"
+    },
+    "effectName": "百味交响"
+  },
+  {
+    "name": "血染荒城",
+    "star": 5,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 674,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2205,
+      "display": "22.1%"
+    },
+    "effectName": "哀恸的赞礼"
+  },
+  {
+    "name": "支离轮光",
+    "star": 5,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 608,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.6615,
+      "display": "66.1%"
+    },
+    "effectName": "洁霜的玉冕"
+  },
+  {
+    "name": "「一心传」名刀",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": null,
+    "effectName": "徊徊切舍刀"
+  },
+  {
+    "name": "「一心传」名刀",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "徊徊切舍刀"
+  },
+  {
+    "name": "「一心传」名刀",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2067,
+      "display": "20.7%"
+    },
+    "effectName": "徊徊切舍刀"
+  },
+  {
+    "name": "暗巷闪光",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 620,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 55.1275,
+      "display": "55"
+    },
+    "effectName": "街巷游侠"
+  },
+  {
+    "name": "辰砂之纺锤",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 454,
+    "substat": {
+      "key": "def%",
+      "name": "防御力%",
+      "value": 0.6895,
+      "display": "69.0%"
+    },
+    "effectName": "无垢之心"
+  },
+  {
+    "name": "船坞长剑",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "船工号子"
+  },
+  {
+    "name": "笛剑",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "和弦"
+  },
+  {
+    "name": "东花坊时雨",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 165.384,
+      "display": "165"
+    },
+    "effectName": "怪谭·时雨心地一本足"
+  },
+  {
+    "name": "厄水之祸",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "弥漫的边界"
+  },
+  {
+    "name": "腐殖之剑",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.4594,
+      "display": "45.9%"
+    },
+    "effectName": "无尽的渴慕"
+  },
+  {
+    "name": "海渊终曲",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "最终的崇高"
+  },
+  {
+    "name": "黑剑",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "「正义」"
+  },
+  {
+    "name": "黑岩长剑",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 565,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.3675,
+      "display": "36.8%"
+    },
+    "effectName": "乘胜追击"
+  },
+  {
+    "name": "灰河渡手",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.4594,
+      "display": "45.9%"
+    },
+    "effectName": "铁骨"
+  },
+  {
+    "name": "祭礼剑",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 454,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.6123,
+      "display": "61.2%"
+    },
+    "effectName": "气定神闲"
+  },
+  {
+    "name": "降临之剑",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 440,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.3519,
+      "display": "35.2%"
+    },
+    "effectName": "降世"
+  },
+  {
+    "name": "狼牙",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "苍狼北风"
+  },
+  {
+    "name": "笼钓瓶一心",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "澄澄一心传"
+  },
+  {
+    "name": "弥坚骨",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "陷阵者的自矜"
+  },
+  {
+    "name": "谧音吹哨",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 454,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.6123,
+      "display": "61.2%"
+    },
+    "effectName": "沉声止语"
+  },
+  {
+    "name": "试作斩岩",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 565,
+    "substat": {
+      "key": "physical%",
+      "name": "物理伤害加成",
+      "value": 0.3445,
+      "display": "34.4%"
+    },
+    "effectName": "碎石"
+  },
+  {
+    "name": "水仙十字之剑",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "勇者之剑"
+  },
+  {
+    "name": "水仙十字之剑",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "「圣剑」"
+  },
+  {
+    "name": "天目影打刀",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 454,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "岩藏之胤"
+  },
+  {
+    "name": "铁蜂刺",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 165.384,
+      "display": "165"
+    },
+    "effectName": "注能之刺"
+  },
+  {
+    "name": "西风剑",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 454,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.6123,
+      "display": "61.2%"
+    },
+    "effectName": "顺风而行"
+  },
+  {
+    "name": "西福斯的月光",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 165.384,
+      "display": "165"
+    },
+    "effectName": "镇灵的低语"
+  },
+  {
+    "name": "息燧之笛",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 454,
+    "substat": {
+      "key": "def%",
+      "name": "防御力%",
+      "value": 0.6895,
+      "display": "69.0%"
+    },
+    "effectName": "镜与烟色的隐谜"
+  },
+  {
+    "name": "匣里龙吟",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "踏火息雷"
+  },
+  {
+    "name": "原木刀",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 565,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3059,
+      "display": "30.6%"
+    },
+    "effectName": "森林的瑞佑"
+  },
+  {
+    "name": "织月者的曙色",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "秘银的血告"
+  },
+  {
+    "name": "宗室长剑",
+    "star": 4,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "专注"
+  },
+  {
+    "name": "暗巷的酒与诗",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 565,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3059,
+      "display": "30.6%"
+    },
+    "effectName": "变化万端"
+  },
+  {
+    "name": "白辰之环",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 565,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3059,
+      "display": "30.6%"
+    },
+    "effectName": "樱之斋宫"
+  },
+  {
+    "name": "苍纹角杯",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 510,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "图帕克之握"
+  },
+  {
+    "name": "乘浪的回旋",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 454,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.6123,
+      "display": "61.2%"
+    },
+    "effectName": "长牙飞去来"
+  },
+  {
+    "name": "纯水流华",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "未完的杰作"
+  },
+  {
+    "name": "嘟嘟可故事集",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 454,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "嘟嘟！大冒险"
+  },
+  {
+    "name": "黑岩绯玉",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 510,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "乘胜追击"
+  },
+  {
+    "name": "祭礼残章",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 454,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 220.512,
+      "display": "221"
+    },
+    "effectName": "气定神闲"
+  },
+  {
+    "name": "流浪的晚星",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 510,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 165.384,
+      "display": "165"
+    },
+    "effectName": "林野晚星"
+  },
+  {
+    "name": "流浪乐章",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 510,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "登场乐"
+  },
+  {
+    "name": "木棉之环",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 510,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "丰沃之陆的回声"
+  },
+  {
+    "name": "忍冬之果",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "霜葬"
+  },
+  {
+    "name": "试作金珀",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 510,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "炊金"
+  },
+  {
+    "name": "霜辰",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 510,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "深宵的胎梦"
+  },
+  {
+    "name": "天光的纺琴",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 510,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.4594,
+      "display": "45.9%"
+    },
+    "effectName": "最后的歌者"
+  },
+  {
+    "name": "万国诸海图谱",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 565,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 110.256,
+      "display": "110"
+    },
+    "effectName": "注能之卷"
+  },
+  {
+    "name": "乌髓孑灯",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 454,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 220.512,
+      "display": "221"
+    },
+    "effectName": "结契的凭证"
+  },
+  {
+    "name": "无垠蔚蓝之歌",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 565,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3059,
+      "display": "30.6%"
+    },
+    "effectName": "蔚蓝深空"
+  },
+  {
+    "name": "西风秘典",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 510,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.4594,
+      "display": "45.9%"
+    },
+    "effectName": "顺风而行"
+  },
+  {
+    "name": "匣里日月",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 510,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "日月辉"
+  },
+  {
+    "name": "遗祀玉珑",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 454,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.3675,
+      "display": "36.8%"
+    },
+    "effectName": "碧玉流转"
+  },
+  {
+    "name": "盈满之实",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 510,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.4594,
+      "display": "45.9%"
+    },
+    "effectName": "圆满之相"
+  },
+  {
+    "name": "昭心",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 454,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "回响"
+  },
+  {
+    "name": "证誓之明瞳",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "微光的海渊民"
+  },
+  {
+    "name": "宗室秘法录",
+    "star": 4,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "专注"
+  },
+  {
+    "name": "暗巷猎手",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "街巷伏击"
+  },
+  {
+    "name": "苍翠猎弓",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 510,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "苍翠之风"
+  },
+  {
+    "name": "测距规",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "石匠号子"
+  },
+  {
+    "name": "风花之颂",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 510,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 165.384,
+      "display": "165"
+    },
+    "effectName": "风花之愿"
+  },
+  {
+    "name": "钢轮弓",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 454,
+    "substat": {
+      "key": "physical%",
+      "name": "物理伤害加成",
+      "value": 0.6895,
+      "display": "69.0%"
+    },
+    "effectName": "注能之矢"
+  },
+  {
+    "name": "弓藏",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "速射弓斗"
+  },
+  {
+    "name": "黑岩战弓",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 565,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.3675,
+      "display": "36.8%"
+    },
+    "effectName": "乘胜追击"
+  },
+  {
+    "name": "鹮穿之喙",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "秘智之眸的青睐"
+  },
+  {
+    "name": "祭礼弓",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 565,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3059,
+      "display": "30.6%"
+    },
+    "effectName": "气定神闲"
+  },
+  {
+    "name": "竭泽",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 510,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.4594,
+      "display": "45.9%"
+    },
+    "effectName": "网破"
+  },
+  {
+    "name": "静谧之曲",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "深海弦振"
+  },
+  {
+    "name": "绝弦",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 510,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 165.384,
+      "display": "165"
+    },
+    "effectName": "无矢之歌"
+  },
+  {
+    "name": "冷寂迸音",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 510,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "静发"
+  },
+  {
+    "name": "烈阳之嗣",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 565,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.1837,
+      "display": "18.4%"
+    },
+    "effectName": "阳炎古道"
+  },
+  {
+    "name": "掠食者",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "强力攻击"
+  },
+  {
+    "name": "罗网勾针",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 454,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.6123,
+      "display": "61.2%"
+    },
+    "effectName": "矫捷无影"
+  },
+  {
+    "name": "落霞",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 565,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3059,
+      "display": "30.6%"
+    },
+    "effectName": "渊中霞彩"
+  },
+  {
+    "name": "曚云之月",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "驭浪的海祇民"
+  },
+  {
+    "name": "破魔之弓",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 454,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "浅濑之弭"
+  },
+  {
+    "name": "试作澹月",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "离簇不归"
+  },
+  {
+    "name": "碎链",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "花与落羽的长歌"
+  },
+  {
+    "name": "王下近侍",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 454,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "迷宫之王的教导"
+  },
+  {
+    "name": "西风猎弓",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 454,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.6123,
+      "display": "61.2%"
+    },
+    "effectName": "顺风而行"
+  },
+  {
+    "name": "幽夜华尔兹",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 510,
+    "substat": {
+      "key": "physical%",
+      "name": "物理伤害加成",
+      "value": 0.5172,
+      "display": "51.7%"
+    },
+    "effectName": "极夜二重奏"
+  },
+  {
+    "name": "筑云",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 510,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 165.384,
+      "display": "165"
+    },
+    "effectName": "镌岩为坊"
+  },
+  {
+    "name": "缀花之翎",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "未至的花序"
+  },
+  {
+    "name": "宗室长弓",
+    "star": 4,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "专注"
+  },
+  {
+    "name": "「究极霸王超级魔剑」",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 565,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3059,
+      "display": "30.6%"
+    },
+    "effectName": "加油！"
+  },
+  {
+    "name": "白影剑",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 510,
+    "substat": {
+      "key": "def%",
+      "name": "防御力%",
+      "value": 0.5172,
+      "display": "51.7%"
+    },
+    "effectName": "注能之锋"
+  },
+  {
+    "name": "便携动力锯",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 454,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "船工号子"
+  },
+  {
+    "name": "螭骨剑",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 510,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "破浪"
+  },
+  {
+    "name": "恶王丸",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "驭浪的海祇民"
+  },
+  {
+    "name": "桂木斩长正",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 510,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.4594,
+      "display": "45.9%"
+    },
+    "effectName": "名士振舞"
+  },
+  {
+    "name": "撼地者",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "苍翠之路的誓言"
+  },
+  {
+    "name": "黑岩斩刀",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 510,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "乘胜追击"
+  },
+  {
+    "name": "祭礼大剑",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 565,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3059,
+      "display": "30.6%"
+    },
+    "effectName": "气定神闲"
+  },
+  {
+    "name": "浪影阔剑",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "巡航的白浪"
+  },
+  {
+    "name": "聊聊棒",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 565,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.1837,
+      "display": "18.4%"
+    },
+    "effectName": "「伶牙俐齿」"
+  },
+  {
+    "name": "玛海菈的水色",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 510,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 165.384,
+      "display": "165"
+    },
+    "effectName": "沙上楼阁"
+  },
+  {
+    "name": "千岩古剑",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "千岩诀·同心"
+  },
+  {
+    "name": "森林王器",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 565,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3059,
+      "display": "30.6%"
+    },
+    "effectName": "森林的瑞佑"
+  },
+  {
+    "name": "拾慧铸熔",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 510,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 165.384,
+      "display": "165"
+    },
+    "effectName": "盛放的思绪"
+  },
+  {
+    "name": "试作古华",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "粉碎"
+  },
+  {
+    "name": "饰铁之花",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 565,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 110.256,
+      "display": "110"
+    },
+    "effectName": "风与花的密语"
+  },
+  {
+    "name": "硕果钩",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "坠枝之重"
+  },
+  {
+    "name": "万能钥匙",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 454,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.6123,
+      "display": "61.2%"
+    },
+    "effectName": "迎刃而解"
+  },
+  {
+    "name": "西风大剑",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 454,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.6123,
+      "display": "61.2%"
+    },
+    "effectName": "顺风而行"
+  },
+  {
+    "name": "衔珠海皇",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 454,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "海洋的胜利"
+  },
+  {
+    "name": "雪葬的星银",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 565,
+    "substat": {
+      "key": "physical%",
+      "name": "物理伤害加成",
+      "value": 0.3445,
+      "display": "34.4%"
+    },
+    "effectName": "霜葬"
+  },
+  {
+    "name": "雨裁",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 510,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 165.384,
+      "display": "165"
+    },
+    "effectName": "止水息雷"
+  },
+  {
+    "name": "钟剑",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 510,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "叛逆的守护者"
+  },
+  {
+    "name": "宗室大剑",
+    "star": 4,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "专注"
+  },
+  {
+    "name": "「渔获」",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 510,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.4594,
+      "display": "45.9%"
+    },
+    "effectName": "船歌"
+  },
+  {
+    "name": "断浪长鳍",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 620,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.1378,
+      "display": "13.8%"
+    },
+    "effectName": "驭浪的海祇民"
+  },
+  {
+    "name": "风信之锋",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "不至之风"
+  },
+  {
+    "name": "公义的酬报",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 565,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "枪尖一点"
+  },
+  {
+    "name": "贯月矢",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 565,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 110.256,
+      "display": "110"
+    },
+    "effectName": "幽林月影"
+  },
+  {
+    "name": "黑岩刺枪",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 510,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.5512,
+      "display": "55.1%"
+    },
+    "effectName": "乘胜追击"
+  },
+  {
+    "name": "虹的行迹",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 510,
+    "substat": {
+      "key": "def%",
+      "name": "防御力%",
+      "value": 0.5172,
+      "display": "51.7%"
+    },
+    "effectName": "流水与泉的约定"
+  },
+  {
+    "name": "决斗之枪",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 454,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.3675,
+      "display": "36.8%"
+    },
+    "effectName": "角斗士"
+  },
+  {
+    "name": "掘金之锹",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 510,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "当机立断"
+  },
+  {
+    "name": "勘探钻机",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "石匠号子"
+  },
+  {
+    "name": "流月针",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 565,
+    "substat": {
+      "key": "physical%",
+      "name": "物理伤害加成",
+      "value": 0.3445,
+      "display": "34.4%"
+    },
+    "effectName": "注能之针"
+  },
+  {
+    "name": "龙脊长枪",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 454,
+    "substat": {
+      "key": "physical%",
+      "name": "物理伤害加成",
+      "value": 0.6895,
+      "display": "69.0%"
+    },
+    "effectName": "霜葬"
+  },
+  {
+    "name": "千岩长枪",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "千岩诀·同心"
+  },
+  {
+    "name": "且住亭御咄",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 565,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3059,
+      "display": "30.6%"
+    },
+    "effectName": "好事者奔行灯"
+  },
+  {
+    "name": "沙中伟贤的对答",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 510,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.4134,
+      "display": "41.3%"
+    },
+    "effectName": "均衡的原理"
+  },
+  {
+    "name": "圣祭者的辉杖",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 620,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.0918,
+      "display": "9.2%"
+    },
+    "effectName": "未染的觖望"
+  },
+  {
+    "name": "试作星镰",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 510,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.4594,
+      "display": "45.9%"
+    },
+    "effectName": "嗜魔"
+  },
+  {
+    "name": "西风长枪",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 565,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3059,
+      "display": "30.6%"
+    },
+    "effectName": "顺风而行"
+  },
+  {
+    "name": "喜多院十文字",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 565,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 110.256,
+      "display": "110"
+    },
+    "effectName": "名士振舞"
+  },
+  {
+    "name": "匣里灭辰",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 454,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 220.512,
+      "display": "221"
+    },
+    "effectName": "踏火止水"
+  },
+  {
+    "name": "峡湾长歌",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 510,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "冰原的诸多故事"
+  },
+  {
+    "name": "镇山之钉",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 565,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3059,
+      "display": "30.6%"
+    },
+    "effectName": "越峰之望"
+  },
+  {
+    "name": "宗室猎枪",
+    "star": 4,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 565,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2756,
+      "display": "27.6%"
+    },
+    "effectName": "专注"
+  },
+  {
+    "name": "暗铁剑",
+    "star": 3,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 401,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 140.5764,
+      "display": "141"
+    },
+    "effectName": "过载"
+  },
+  {
+    "name": "吃虎鱼刀",
+    "star": 3,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 401,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.3519,
+      "display": "35.2%"
+    },
+    "effectName": "决"
+  },
+  {
+    "name": "飞天御剑",
+    "star": 3,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 354,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.5205,
+      "display": "52.0%"
+    },
+    "effectName": "决心"
+  },
+  {
+    "name": "冷刃",
+    "star": 3,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 401,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.3519,
+      "display": "35.2%"
+    },
+    "effectName": "止水融冰"
+  },
+  {
+    "name": "黎明神剑",
+    "star": 3,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 401,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.4685,
+      "display": "46.9%"
+    },
+    "effectName": "激励"
+  },
+  {
+    "name": "旅行剑",
+    "star": 3,
+    "type": "单手剑",
+    "typeFile": "sword",
+    "baseATK": 448,
+    "substat": {
+      "key": "def%",
+      "name": "防御力%",
+      "value": 0.2926,
+      "display": "29.3%"
+    },
+    "effectName": "旅程"
+  },
+  {
+    "name": "翡玉法球",
+    "star": 3,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 448,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 93.7176,
+      "display": "94"
+    },
+    "effectName": "激流"
+  },
+  {
+    "name": "琥珀玥",
+    "star": 3,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 401,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 140.5764,
+      "display": "141"
+    },
+    "effectName": "元素熟练"
+  },
+  {
+    "name": "甲级宝珏",
+    "star": 3,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 448,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.1561,
+      "display": "15.6%"
+    },
+    "effectName": "奔袭战术"
+  },
+  {
+    "name": "魔导绪论",
+    "star": 3,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 354,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 187.4352,
+      "display": "187"
+    },
+    "effectName": "止水息雷"
+  },
+  {
+    "name": "讨龙英杰谭",
+    "star": 3,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 401,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.3519,
+      "display": "35.2%"
+    },
+    "effectName": "传承"
+  },
+  {
+    "name": "异世界行记",
+    "star": 3,
+    "type": "法器",
+    "typeFile": "catalyst",
+    "baseATK": 401,
+    "substat": {
+      "key": "eff%",
+      "name": "元素充能效率",
+      "value": 0.3904,
+      "display": "39.0%"
+    },
+    "effectName": "能量沐浴"
+  },
+  {
+    "name": "弹弓",
+    "star": 3,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 354,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.3123,
+      "display": "31.2%"
+    },
+    "effectName": "弹弓"
+  },
+  {
+    "name": "反曲弓",
+    "star": 3,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 354,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.469,
+      "display": "46.9%"
+    },
+    "effectName": "收割"
+  },
+  {
+    "name": "黑檀弓",
+    "star": 3,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 401,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.3519,
+      "display": "35.2%"
+    },
+    "effectName": "摧坚"
+  },
+  {
+    "name": "神射手之誓",
+    "star": 3,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 401,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.4685,
+      "display": "46.9%"
+    },
+    "effectName": "精准"
+  },
+  {
+    "name": "信使",
+    "star": 3,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 448,
+    "substat": {
+      "key": "cd%",
+      "name": "暴击伤害",
+      "value": 0.3123,
+      "display": "31.2%"
+    },
+    "effectName": "飞矢传书"
+  },
+  {
+    "name": "鸦羽弓",
+    "star": 3,
+    "type": "弓",
+    "typeFile": "bow",
+    "baseATK": 448,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 93.7176,
+      "display": "94"
+    },
+    "effectName": "踏火止水"
+  },
+  {
+    "name": "白铁大剑",
+    "star": 3,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 401,
+    "substat": {
+      "key": "def%",
+      "name": "防御力%",
+      "value": 0.4391,
+      "display": "43.9%"
+    },
+    "effectName": "收割"
+  },
+  {
+    "name": "飞天大御剑",
+    "star": 3,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 401,
+    "substat": {
+      "key": "physical%",
+      "name": "物理伤害加成",
+      "value": 0.4391,
+      "display": "43.9%"
+    },
+    "effectName": "勇气"
+  },
+  {
+    "name": "沐浴龙血的剑",
+    "star": 3,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 354,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 187.4352,
+      "display": "187"
+    },
+    "effectName": "踏火息雷"
+  },
+  {
+    "name": "石英大剑",
+    "star": 3,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 401,
+    "substat": {
+      "key": "element",
+      "name": "元素精通",
+      "value": 140.5764,
+      "display": "141"
+    },
+    "effectName": "余热"
+  },
+  {
+    "name": "铁影阔剑",
+    "star": 3,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 401,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.3519,
+      "display": "35.2%"
+    },
+    "effectName": "不屈"
+  },
+  {
+    "name": "以理服人",
+    "star": 3,
+    "type": "双手剑",
+    "typeFile": "claymore",
+    "baseATK": 401,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.3519,
+      "display": "35.2%"
+    },
+    "effectName": "有话直说"
+  },
+  {
+    "name": "「旗杆」",
+    "star": 3,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 189,
+    "substat": null,
+    "effectName": "待定"
+  },
+  {
+    "name": "白缨枪",
+    "star": 3,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 401,
+    "substat": {
+      "key": "cc%",
+      "name": "暴击率",
+      "value": 0.2342,
+      "display": "23.4%"
+    },
+    "effectName": "锐利"
+  },
+  {
+    "name": "黑缨枪",
+    "star": 3,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 354,
+    "substat": {
+      "key": "hp%",
+      "name": "生命值%",
+      "value": 0.469,
+      "display": "46.9%"
+    },
+    "effectName": "克柔"
+  },
+  {
+    "name": "钺矛",
+    "star": 3,
+    "type": "长柄武器",
+    "typeFile": "polearm",
+    "baseATK": 448,
+    "substat": {
+      "key": "att%",
+      "name": "攻击力%",
+      "value": 0.2342,
+      "display": "23.4%"
+    },
+    "effectName": "沉重"
+  }
+]

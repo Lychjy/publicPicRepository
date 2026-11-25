@@ -1,0 +1,42 @@
+{
+  "map_id": 2,
+  "version": "bcda47e0cec325fb93936df17aeb35d4",
+  "tile_base": "https://act-webstatic.mihoyo.com/ys-map-op/map/2/bcda47e0cec325fb93936df17aeb35d4/",
+  "total_size": [
+    36864,
+    16384
+  ],
+  "original_map_size": [
+    23544,
+    14994
+  ],
+  "origin": [
+    23791,
+    6204
+  ],
+  "padding": [
+    6660,
+    695
+  ],
+  "tile_size": 256,
+  "zoom_levels": [
+    {
+      "label": "N4",
+      "cols": 9,
+      "rows": 4,
+      "total": 36
+    },
+    {
+      "label": "N3",
+      "cols": 18,
+      "rows": 8,
+      "total": 144
+    },
+    {
+      "label": "N2",
+      "cols": 36,
+      "rows": 16,
+      "total": 576
+    }
+  ]
+}
